@@ -147,18 +147,17 @@
         </div>
     </div> <!-- end section-header -->
 
-    <div class="row clients-outer" data-aos="fade-up">
+    <div class="row section-header" data-aos="fade-up">
         <div class="col-full">
             <div class="clients">
 
-                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/apple.png')}}" alt=""/></a>
-                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/atom.png')}}" alt=""/></a>
-                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/blackberry.png')}} " alt=""/></a>
-                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/dropbox.png')}}" alt=""/></a>
-                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/envato.png')}}" alt=""/></a>
-                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/firefox.png')}}" alt=""/></a>
-                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/joomla.png')}}" alt=""/></a>
-                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/magento.png')}}" alt=""/></a>
+                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/dala.png')}}" alt=""/></a>
+                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/dala.png')}}" alt=""/></a>
+                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/dala.png')}}" alt=""/></a>
+                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/dala.png')}}" alt=""/></a>
+                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/dala.png')}}" alt=""/></a>
+                <a href="#" title="" class="clients__slide"><img src="{{('images/clients/dala.png')}}" alt=""/></a>
+
 
             </div> <!-- end clients -->
         </div> <!-- end col-full -->

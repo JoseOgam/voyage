@@ -19,33 +19,23 @@
         </div>
     </div> <!-- end section-header -->
     <div style="margin-top:120px"></div>
-    <div class="container">
-        <div class="row">
+    <div class="container row section-header has-bottom-sep" data-aos="fade-up">
+        <div class="row col-full">
             <div class="col-xs-10 col-xs-offset-1 col-md-6 col-md-offset-3 great-achievements-h">
                 <p class="">
-                    The story of our success began in June 2015. In one of the sunniest places in the world - Las Palmas
-                    de
-                    Gran Canaria Kentech S.L.U. was incorporated. The foreword of our story had been written in years
-                    before, in the emerging markets of East Africa. There, our stakeholders gathered extensive
-                    knowledge,
-                    experience and insights of this specific market’s need for the development of cutting edge
-                    technological
-                    solutions. More than that, they learned to listen to the customers, respect their culture and
-                    cherish
-                    their dreams. At Kentech S.L.U. the customer comes first. This involves learning about the
-                    customer's
-                    ever-changing needs and meeting their expectations for lasting quality. And quality is the
-                    foundation
-                    for the management of our business. It is, therefore, company policy to consistently provide
-                    solutions
-                    and services that meet the quality expectations of our customers.
+                    <b class="display-2--light">Legit Design solution LTD </b> is a Kisumu-based full-service digital
+                    marketing agency specializing in internet marketing,
+                    graphic design, and web design and development. From web strategies and user experience to
+                    development and marketing, Legit Design creates value in everything we do. We deliver digital
+                    solutions through website design and marketing that include mobile, social, SEO, and paid search
+                    campaigns.
                 </p>
                 <br>
                 <p class="">
-                    Located off the western coast of Africa, Kentech S.L.U.’s team develops and delivers turnkey
-                    computing
+                    Our team develops and delivers computing
                     solutions, provides systems support, web development, and web-based applications, customized for the
-                    East African market needs and demands, building a bridge of innovation that connects different
+                    business startups, cooperates and individual projects, We building a bridge of innovation
+                    that connects different
                     cultures.
                 </p>
             </div>
@@ -61,7 +51,7 @@
 
                             <div style="margin-top:120px"></div>
 
-                            <p class="header-note">Our mission</p>
+                            <p class="header-note display-1--light">Our mission</p>
                             <h1>We build cutting-edge applications</h1>
                             <hr>
                             <p class="great-achievements-h">Our mission is to build cutting-edge applications, which
@@ -71,7 +61,7 @@
 
                             <div style="margin-top:40px"></div>
 
-                            <p class="header-note">Our vision</p>
+                            <p class="header-note display-1--light">Our vision</p>
                             <h1>To become a recognized provider of custom solutions</h1>
                             <hr>
                             <p class="great-achievements-h">To become a recognized provider of custom solutions to major
@@ -79,7 +69,7 @@
 
                             <div style="margin-top:40px"></div>
 
-                            <p class="header-note">Our core values</p>
+                            <p class="header-note display-1--light">Our core values</p>
                             <h1>Our partners and employees have a passion for technology</h1>
                             <hr>
                             <p class="great-achievements-h">Kentech conducts its business with honesty and integrity.

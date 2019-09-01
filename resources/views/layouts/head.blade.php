@@ -23,6 +23,6 @@
 
     <!-- icon
     ================================================== -->
-    <link rel="icon" type="image/ico" href="{{('images/icon-logo.png')}}" />
+    <link rel="icon" type="image/ico" href="{{('images/icon.png')}}" />
 
 </head>

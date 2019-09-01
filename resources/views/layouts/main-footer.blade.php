@@ -6,12 +6,11 @@
         <div class="col-six tab-full left footer-desc">
 
             <div class="">  <a class="site-logo" href="#">
-                    <img src="{{('images/header-logo.png')}}" alt="Homepage">
+                    <img src="{{('images/header-logo.png')}}" alt="footer">
                 </a></div>
-            Proin eget tortor risus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa,
-            convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-            Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Quaerat voluptas autem
-            necessitatibus vitae aut.
+            <b class="display-2--light">Legit Design solution LTD </b> is a Kisumu-based full-service digital
+            marketing agency specializing in internet marketing,
+            graphic design, and web design and development.
 
         </div>
 
@@ -40,7 +39,7 @@
             <div class="copyright">
                 <p><!-- Link back-->
                     Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |
-                    legit branding solutions ltd
+                    legit design solutions ltd
                     <!-- Link back --></p>
             </div>
 

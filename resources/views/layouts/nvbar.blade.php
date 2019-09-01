@@ -3,13 +3,13 @@
 
     <div class="header-logo">
         <a class="site-logo" href="#">
-            <img src="{{('images/header-logo.png')}}" alt="Homepage">
+            <img src="{{('images/header-logo.png')}}" alt="Homepage" height="50" width="500">
         </a>
     </div>
 
     <nav class="header-nav">
 
-        <a href="#0" class="header-nav__close" title="close"><span>Close</span></a>
+        <a href="#" class="header-nav__close" title="close"><span>Close</span></a>
 
         <div class="header-nav__content">
             <h3>Navigation</h3>
@@ -19,12 +19,10 @@
                 <li><a class="" href="{{route('about-us.index')}}" title="about">About</a></li>
                 <li><a href="{{route('services.index')}}" title="services">Services</a></li>
                 <li class="menu-has-children"><a  href="{{route('portfolio.index')}}" title="works">Portfolio</a></li>
-                <li><a class="smoothscroll" href="#clients" title="clients">Clients</a></li>
                 <li><a href="{{route('contact.index')}}" title="contact">Contact</a></li>
             </ul>
 
-            <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi
-                veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p>
+            <p></p>
 
             <ul class="header-nav__social">
                 <li>
@@ -45,7 +43,7 @@
 
     </nav>  <!-- end header-nav -->
 
-    <a class="header-menu-toggle" href="#0">
+    <a class="header-menu-toggle" href="#">
         <span class="header-menu-text">Menu</span>
         <span class="header-menu-icon"></span>
     </a>

@@ -16,7 +16,7 @@
     <div class="row section-header" data-aos="fade-up">
         <div class="col-full">
             <h3 class="subhead">Contact Us</h3>
-            <h1 class="display-2 display-2--light">Reach out for a new project or just say hello</h1>
+            <h1 class="display-2 display-2--light">Reach out for a new project or any inquiry</h1>
         </div>
     </div>
     <div class="row contact-content" data-aos="fade-up">
@@ -80,9 +80,10 @@
                     <div class="">
                         <label for=""></label><label>
                 <textarea name="message"
-                          required="" aria-required="true" cols="15" rows="10"
+                          required="" aria-required="true"
                           class="full-width"
-                          placeholder="Your I.T solution need.."></textarea>
+                          placeholder="Your I.T solution need.." style="resize:none" cols="num"
+                          rows="5"></textarea>
                         </label>
                     </div>
                 </div>
