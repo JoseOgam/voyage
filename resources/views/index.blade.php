@@ -8,7 +8,7 @@
 <!--<![endif]-->
 <!--head start-->
 <head>
-    <title>legit branding solutions ltd</title>
+    <title>Legit - Professional Web Designers Kenya</title>
     @include('layouts.head')
 </head>
 <!--head end-->
@@ -74,7 +74,7 @@
             <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
         </li>
         <li>
-            <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i><span>Behance</span></a>
+            <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i><span>linkedin</span></a>
         </li>
     </ul>
     <!-- end home-social -->
@@ -103,10 +103,14 @@
                 self- motivation and creativity, our experts can take ownership of the processes that make
                 both our business and our clients' businesses succeed.
             </p>
-            <div class="home-content__buttons">
-                <a href="{{route('about-us.index')}}" class="btn btn--stroke">
-                    More About Us
-                </a>
+            <div class="row section-header has-bottom-sep" data-aos="fade-up">
+                <div class="col-full">
+                    <h3 class="subhead">What inspires you?</h3>
+                    <h5 class=" display-2--light"><a href="{{route('about-us.index')}}" class=" btn btn--light">
+                            More About Us
+                        </a>
+                    </h5>
+                </div>
             </div>
         </div>
     </div> <!-- end about-desc -->

@@ -13,12 +13,10 @@
             graphic design, and web design and development.
 
         </div>
-
         <div class="col-six tab-full right footer-subscribe">
 
             <h4>Get Notified</h4>
-            <p>Quia quo qui sed odit. Quaerat voluptas autem necessitatibus vitae aut non alias sed quia. Ut itaque enim
-                optio ut excepturi deserunt iusto porro.</p>
+            <p>Register your email for our monthly Notification.</p>
 
             <div class="subscribe-form">
                 <form id="mc-form" class="group" novalidate="true">

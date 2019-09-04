@@ -52,9 +52,10 @@
                             <div style="margin-top:120px"></div>
 
                             <p class="header-note display-1--light">Our mission</p>
-                            <h1>We build cutting-edge applications</h1>
+                            <h1>To build cutting-edge business solutions</h1>
                             <hr>
-                            <p class="great-achievements-h">Our mission is to build cutting-edge applications, which
+                            <p class="great-achievements-h">Our mission is to build cutting-edge business applications,
+                                which
                                 deliver
                                 long term commercial benefits and make technology an asset for our clients'
                                 business. </p>
@@ -62,7 +63,7 @@
                             <div style="margin-top:40px"></div>
 
                             <p class="header-note display-1--light">Our vision</p>
-                            <h1>To become a recognized provider of custom solutions</h1>
+                            <h1>To become a recognized provider of custom business solutions</h1>
                             <hr>
                             <p class="great-achievements-h">To become a recognized provider of custom solutions to major
                                 companies across various verticals in emerging markets.</p>
@@ -72,15 +73,15 @@
                             <p class="header-note display-1--light">Our core values</p>
                             <h1>Our partners and employees have a passion for technology</h1>
                             <hr>
-                            <p class="great-achievements-h">Kentech conducts its business with honesty and integrity.
+                            <p class="great-achievements-h">Legit  conducts its business with honesty and integrity.
                                 All
-                                staff at Kentech are expected to demonstrate professional etiquette by treating the
+                                staff at Legit are expected to demonstrate professional etiquette by treating the
                                 clients,
                                 the partners and other employees of the company with respect.</p>
 
                             <div style="margin-top:65px"></div>
 
-                            <div class="row box-img">
+                           <!-- <div class="row box-img">
                                 <div class="col-sm-4">
                                     <div>
                                         <img src="" alt="">
@@ -99,9 +100,18 @@
                                         <p>Respect</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
 
                             <div style="margin-top:120px"></div>
+                            <div class="row section-header has-bottom-sep" data-aos="fade-up">
+                                <div class="col-full">
+                                    <h3 class="subhead">What inspires you?</h3>
+                                    <h5 class=" display-2--light"><a href="{{route('contact.index')}}" class=" btn btn--light">
+                                            Get In Touch...
+                                        </a>
+                                    </h5>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

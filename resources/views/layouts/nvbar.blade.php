@@ -16,10 +16,10 @@
 
             <ul class="header-nav__list">
                 <li class="current"><a href="{{route('index.index')}}" title="home">Home</a></li>
-                <li><a class="" href="{{route('about-us.index')}}" title="about">About</a></li>
                 <li><a href="{{route('services.index')}}" title="services">Services</a></li>
                 <li class="menu-has-children"><a  href="{{route('portfolio.index')}}" title="works">Portfolio</a></li>
                 <li><a href="{{route('contact.index')}}" title="contact">Contact</a></li>
+                <li><a class="" href="{{route('about-us.index')}}" title="about">Company</a></li>
             </ul>
 
             <p></p>

@@ -118,29 +118,29 @@
 
                 <h3 class="h6 hide-on-fullwidth">Contact Info</h3>
 
-                <div class="cinfo">
+              <!--  <div class="cinfo">
                     <h5>Where to Find Us</h5>
                     <p>
                         1600 Amphitheatre Parkway<br>
-                        Mountain View, CA<br>
-                        94043 US
+                        Mountain View, Kisumu <br>
+
                     </p>
-                </div>
+                </div>-->
 
                 <div class="cinfo">
                     <h5>Email Us At</h5>
                     <p>
-                        contact@glintsite.com<br>
-                        info@glintsite.com
+                        contact@legit.co.ke<br>
+
                     </p>
                 </div>
 
                 <div class="cinfo">
                     <h5>Call Us At</h5>
                     <p>
-                        Phone: (+63) 555 1212<br>
-                        Mobile: (+63) 555 0100<br>
-                        Fax: (+63) 555 0101
+                        Mobile: (+254) 555 1212<br>
+                        Phone: (+63) 555 0100<br>
+
                     </p>
                 </div>
 
